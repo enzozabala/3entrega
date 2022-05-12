@@ -3,13 +3,13 @@ body {
     background-color: $bg-color;
     color: $primary-color;
 
-.a {
+a {
     color: $text-color;
     text-decoration: none;
     transition: .4s;
 }
 
-.ul {
+ul {
     list-style: none;
 }
 }

@@ -49,8 +49,7 @@
     }
 }
 
-.header-social-media {
-    ul {
+.header-social-media ul {
         @include flex-center;
         height: 100%;
         list-style: none;
@@ -62,4 +61,3 @@
             margin: 0 1rem;
         }
     }
-}
