@@ -285,8 +285,9 @@ span {
 /*PAGE FOTOS*/
 /*GALERIA*/
 .encabezado {
-  margin-bottom: 15px;
-  color: antiquewhite;
+  font-weight: 400;
+  margin-bottom: 30px;
+  color: #20C997;
   display: flex;
   justify-content: center;
   text-align: center;
@@ -334,5 +335,6 @@ span {
     grid-template-columns: repeat(4, 1fr);
   }
 }
+/* ---------------------Page Contactos ---------------------*/
 
 /*# sourceMappingURL=style.css.map */
