@@ -41,7 +41,7 @@
 }
 
 .gallery #card-1 {
-    background-image: url("../scss/img/animales.jpg");
+    background-image: url("/img/animales.jpg");
     background-size: 100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -52,11 +52,11 @@
 .gallery #card-1:hover {
     background-size: 110%;
     filter: grayscale(0%);
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../scss/img/animales.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/img/animales.jpg");
 }
 
 .gallery #card-2 {
-    background-image: url("../scss/img/arquitectura.jpg");
+    background-image: url("/img/arquitectura.jpg");
     background-size: 100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -67,11 +67,11 @@
 .gallery #card-2:hover {
     background-size: 110%;
     filter: grayscale(0%);
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../scss/img/arquitectura.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/img/arquitectura.jpg");
 }
 
 .gallery #card-3 {
-    background-image: url("../scss/img/ciudades.jpg");
+    background-image: url("/img/ciudades.jpg");
     background-size: 100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -82,11 +82,11 @@
 .gallery #card-3:hover {
     background-size: 110%;
     filter: grayscale(0%);
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../scss/img/ciudades.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/img/ciudades.jpg");
 }
 
 .gallery #card-4 {
-    background-image: url("../scss/img/decoracion.jpg");
+    background-image: url("/img/decoracion.jpg");
     background-size: 100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -97,11 +97,11 @@
 .gallery #card-4:hover {
     background-size: 110%;
     filter: grayscale(0%);
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../scss/img/decoracion.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/img/decoracion.jpg");
 }
 
 .gallery #card-5 {
-    background-image: url("../scss/img/deportes.jpg");
+    background-image: url("/img/deportes.jpg");
     background-size: 100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -112,11 +112,11 @@
 .gallery #card-5:hover {
     background-size: 110%;
     filter: grayscale(0%);
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../scss/img/deportes.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/img/deportes.jpg");
 }
 
 .gallery #card-6 {
-    background-image: url("../scss/img/natureza.jpg");
+    background-image: url("/img/natureza.jpg");
     background-size: 100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -127,11 +127,11 @@
 .gallery #card-6:hover {
     background-size: 110%;
     filter: grayscale(0%);
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../scss/img/natureza.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/img/natureza.jpg");
 }
 
 .gallery #card-7 {
-    background-image: url("../scss/img/paisajes.jpg");
+    background-image: url("/img/paisajes.jpg");
     background-size: 100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -142,11 +142,11 @@
 .gallery #card-7:hover {
     background-size: 110%;
     filter: grayscale(0%);
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../scss/img/paisajes.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/img/paisajes.jpg");
 }
 
 .gallery #card-8 {
-    background-image: url("../scss/img/personas.jpg");
+    background-image: url("/img/personas.jpg");
     background-size: 100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -157,11 +157,11 @@
 .gallery #card-8:hover {
     background-size: 110%;
     filter: grayscale(0%);
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../scss/img/personas.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/img/personas.jpg");
 }
 
 .gallery #card-9 {
-    background-image: url("../scss/img/comidas.jpg");
+    background-image: url("/img/comidas.jpg");
     background-size: 100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -172,7 +172,7 @@
 .gallery #card-9:hover {
     background-size: 110%;
     filter: grayscale(0%);
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../scss/img/comidas.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/img/comidas.jpg");
 }
 
 footer {

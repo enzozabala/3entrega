@@ -2,9 +2,9 @@
 @import "./base/reset";
 @import "./base/mixins";
 @import "./base/variables";
-@import "./componentes/body";
-@import "./componentes/header";
-@import "./componentes/gallery";
+@import "./componentes-index/body";
+@import "./componentes-index/header";
+@import "./componentes-index/gallery";
 
 * {
     @extend %reset;
