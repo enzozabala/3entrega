@@ -41,13 +41,6 @@ body ul {
   text-decoration: none;
 }
 
-.header-navbar {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  list-style: none;
-  text-decoration: none;
-}
 .header-navbar ul {
   height: 100%;
   display: flex;
@@ -64,7 +57,7 @@ body ul {
   font-size: 0.8rem;
   list-style: none;
 }
-.header-navbar ul li a {
+.header-navbar ul li a:hover {
   color: #20C997;
   text-decoration: none;
 }
