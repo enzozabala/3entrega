@@ -276,8 +276,7 @@ span {
   color: #20C997;
 }
 
-/*PAGE FOTOS*/
-/*GALERIA*/
+/* Componentes page fotos*/
 .encabezado {
   font-weight: 400;
   margin-bottom: 30px;
@@ -393,5 +392,8 @@ body {
   text-decoration: none;
   color: #20C997;
 }
+
+/*PAGE FOTOS*/
+/* ----Page SERVICIOS ----*/
 
 /*# sourceMappingURL=style.css.map */
